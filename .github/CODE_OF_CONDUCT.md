@@ -1,4 +1,4 @@
-# Yii Contributor Code of Conduct
+# Yii Stack Contributor Code of Conduct
 
 ## Our Pledge
 

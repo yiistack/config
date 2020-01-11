@@ -15,9 +15,3 @@ Since Yii 3 consists of many packages, we have a [special development tool](http
 2. [Set up your own fork](https://github.com/yiisoft/yii-dev-tool#using-your-own-fork).
 
 3. Now you are ready. Fork any package listed in `packages.php` and do `./yii-dev install username/package`.
-
-If you don't have any particular package in mind to start with:
-
-- [Check roadmap](https://github.com/yiisoft/docs/blob/master/003-roadmap.md).
-- Check package issues at github. Usually there are some.
-- Ask @rustamwin.
